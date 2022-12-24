@@ -1,6 +1,14 @@
 body{
     font-family: 'Courier New', 'Lucida Console', monospace;
     color: black;
+    width: 60%;
+    margin: auto;
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+    color: black;
 }
 
 #title {
