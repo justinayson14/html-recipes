@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', 'Lucida Console', monospace;
+    color: black;
+}
+
+#title {
+    font-family: 'Monaco', 'Lucida Console', monospace;
+    font-weight: 900;
+    text-align: center;
+    font-size: 450%;
+    margin-top: 0%;
+}
