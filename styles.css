@@ -11,6 +11,10 @@ a{
     color: black;
 }
 
+.ssg_container {
+    text-align: center;
+}
+
 .pic {
     text-align: center;
 }
@@ -22,10 +26,28 @@ a{
     padding: 5px;
 }
 
+.ssg_container .titles {
+    font-size: 150%;
+}
+
+.ssg_container .ssg_title {
+    font-size: 350%;
+    margin: 0%;
+}
+
+.ssg_container .ssg_ingredients,
+.ssg_container .ssg_steps,
+.ssg_container .ssg_about {
+    text-align: left;
+    padding-left: 10%;
+}
+
+
 #title {
     font-family: 'Monaco', 'Lucida Console', monospace;
     font-weight: 900;
     text-align: center;
     font-size: 450%;
-    margin-top: 0%;
+    margin: 0%;
+    padding-bottom: 2%;
 }
