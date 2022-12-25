@@ -13,7 +13,8 @@ a{
 
 .ssg_container,
 .adb_container,
-.fri_container {
+.fri_container,
+.stk_container {
     text-align: center;
 }
 
@@ -30,20 +31,23 @@ a{
 
 .ssg_container h3,
 .adb_container h3,
-.fri_container h3 {
+.fri_container h3,
+.stk_container h3{
     font-size: 150%;
 }
 
 .ssg_container h2,
 .adb_container h2, 
-.fri_container h2{
+.fri_container h2,
+.stk_container h2{
     font-size: 350%;
     margin: 0%;
 }
 
 .ssg_container .desc,
 .adb_container .desc,
-.fri_container .desc{
+.fri_container .desc,
+.stk_container .desc{
     text-align: left;
     padding-left: 10%;
 }
