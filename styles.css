@@ -11,6 +11,17 @@ a{
     color: black;
 }
 
+.pic {
+    text-align: center;
+}
+
+.pic img {
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+    padding: 5px;
+}
+
 #title {
     font-family: 'Monaco', 'Lucida Console', monospace;
     font-weight: 900;
