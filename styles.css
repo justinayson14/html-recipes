@@ -12,7 +12,8 @@ a{
 }
 
 .ssg_container,
-.adb_container {
+.adb_container,
+.fri_container {
     text-align: center;
 }
 
@@ -28,12 +29,14 @@ a{
 }
 
 .ssg_container .titles,
-.adb_container .titles {
+.adb_container .titles,
+.fri_container h3 {
     font-size: 150%;
 }
 
 .ssg_container .ssg_title,
-.adb_container h2 {
+.adb_container h2, 
+.fri_container h2{
     font-size: 350%;
     margin: 0%;
 }
@@ -41,7 +44,8 @@ a{
 .ssg_container .ssg_ingredients,
 .ssg_container .ssg_steps,
 .ssg_container .ssg_about,
-.adb_container .desc {
+.adb_container .desc,
+.fri_container .desc{
     text-align: left;
     padding-left: 10%;
 }
